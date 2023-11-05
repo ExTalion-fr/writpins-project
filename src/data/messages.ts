@@ -23,7 +23,6 @@ const messages: Message[] = [
     subject: 'Report Results',
     date: '4:55 AM',
     id: 2
-
   },
   {
     fromName: 'Bill Thomas',

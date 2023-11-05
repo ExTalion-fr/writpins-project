@@ -1,0 +1,35 @@
+.toolbar-title-default .title-default {
+    display: inline-block;
+}
+
+ion-icon {
+    color: #ffffff;
+}
+
+.toolbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.modal-sheet ion-card {
+    margin-top: 25px;
+}
+
+ion-chip {
+    justify-content: center;
+    width: 100px;
+    height: 28px;
+    margin-right: 5px;
+    padding: 0 6px;
+}
+
+ion-chip ion-icon {
+    margin-left: 2px;
+}
+
+.item-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
